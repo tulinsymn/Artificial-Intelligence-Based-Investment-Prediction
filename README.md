@@ -23,15 +23,6 @@ To run this project, the following libraries must be installed:
 - scikit-learn
 - tensorflow
 
-You can install the libraries using the following command:
-
-```bash
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install scikit-learn
-pip install tensorflow 
-
 ## Project Output
 
 Below is an example of the project output:
