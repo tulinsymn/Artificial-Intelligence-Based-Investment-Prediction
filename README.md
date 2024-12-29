@@ -31,3 +31,8 @@ pip install numpy
 pip install matplotlib
 pip install scikit-learn
 pip install tensorflow
+## Project Output
+
+Below is an example of the project output:
+
+![Investment Prediction Plot](https://github.com/tulinsymn/Artificial-Intelligence-Based-Investment-Prediction/blob/main/images.png)
